@@ -1,0 +1,8 @@
+Package: fishyTools
+Title: Nick Fishbane's utility functions
+Version: 1.0
+Authors@R: "Nick Fishbane <nicholas.fishbane@stat.ubc.ca> [aut,cre]"
+Description: Nick Fishbane's personal stash of useful functions. Proceed with extreme excite. Wow.
+Depends: R (>= 3.1.0)
+License: Free, bitches.
+LazyData: true
